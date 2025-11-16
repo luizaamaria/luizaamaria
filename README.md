@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaamaria&layout=compact&hide_border=true&title_color=ffffff&text_color=00bfbf&bg_color=000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luizaamaria&bg_color=000000&color=f2cadb&line=ffffff&point=f2cadb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=luizaamaria&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -27,8 +25,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&labelColor=000000)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=amazon-aws&labelColor=000000)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&labelColor=000000)&nbsp;
-
-### Automation | GCP | AI:
 ![Automation](https://img.shields.io/badge/-Automation-000000?style=for-the-badge&logo=automation&labelColor=000000)&nbsp;
 ![GCP](https://img.shields.io/badge/-Google_Cloud_Platform-000000?style=for-the-badge&logo=google-cloud&labelColor=000000)&nbsp;
 ![AI](https://img.shields.io/badge/-AI-000000?style=for-the-badge&logo=ai&labelColor=000000)&nbsp;
