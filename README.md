@@ -14,7 +14,6 @@
 <div align="center">  
 <a href="https://www.instagram.com/_lluuuhh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/luizamariabarrosdeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="mailto:cmp.la.luizamariabarros.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
 
 ### Main Skills:
