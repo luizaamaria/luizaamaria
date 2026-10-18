@@ -2,7 +2,7 @@
 
 **Systems Developer** | **Backend Engineer** 
 
-📍 São Paulo, Brazil | 👩‍💻 26 years old | 🎓 Graduated in Systems Development - IFSP
+📍 São Paulo, Brazil | 👩‍💻 27 years old | 🎓 Graduated in Systems Development - IFSP
 
 ---
 
